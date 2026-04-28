@@ -81,8 +81,13 @@ Each domain folder contains a `README.md` with:
 
 ## Extra Resources 
 https://www.youtube.com/watch?v=vizgFWixquE
+
 https://dynamicbalaji.medium.com/claude-certified-architect-foundations-certification-preparation-guide-c70546b51f51
+
 https://claudecertifications.com/claude-certified-architect/domains
+
 https://www.aiforanything.io/blog/cca-domain-1-agentic-architecture-guide
+
 https://claudecertificationguide.com/
+
 https://github.com/paullarionov/claude-certified-architect/blob/main/guide_en.MD
