@@ -5,7 +5,7 @@
 
 ---
 
-## Phase 1 — Beginner · Weeks 1–2 · ~22h
+## Phase 1 — Beginner · ~22h
 > Build the mental model before touching any code.
 
 ### 1.1 How Claude actually works · ~4h
@@ -40,7 +40,7 @@
 
 ---
 
-## Phase 2 — Intermediate · Weeks 3–6 · ~38h
+## Phase 2 — Intermediate  · ~38h
 > Build real working systems with the Claude API, MCP, and Claude Code.
 
 ### 2.1 The Claude API — production foundation · ~12h
@@ -87,7 +87,7 @@
 
 ---
 
-## Phase 3 — Advanced · Weeks 7–9 · ~22h
+## Phase 3 — Advanced · ~22h
 > Agentic systems design — the highest-weighted domain (27%) studied last, built on everything prior.
 
 ### 3.1 Agentic architecture — systems design layer · ~14h
