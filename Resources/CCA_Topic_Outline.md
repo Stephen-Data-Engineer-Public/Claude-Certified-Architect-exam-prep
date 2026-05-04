@@ -9,6 +9,54 @@
 > Build the mental model before touching any code.
 
 ### 1.1 How Claude actually works · ~4h
+### 1.2 Model selection — which Claude for which task · ~2h
+### 1.3 Prompt engineering — the reliability layer · ~8h
+### 1.4 Context management — the constraints layer · ~4h
+### 1.5 Phase 1 consolidation · ~1h
+
+---
+
+## Phase 2 — Intermediate  · ~38h
+> Build real working systems with the Claude API, MCP, and Claude Code.
+
+### 2.1 The Claude API — production foundation · ~12h
+### 2.2 Tool design & MCP integration · ~14h
+### 2.3 Claude Code — developer workflow layer · ~12h
+### 2.4 Computer use — the agentic extension · ~2h
+### 2.5 Phase 2 consolidation · ~2h
+
+---
+
+## Phase 3 — Advanced · ~22h
+> Agentic systems design — the highest-weighted domain (27%) studied last, built on everything prior.
+
+### 3.1 Agentic architecture — systems design layer · ~14h
+### 3.2 Context management — advanced applications · ~5h
+### 3.3 Phase 3 consolidation · ~2h
+
+---
+## Final Preparation — Practice Questions & Exam Drill · ~8h
+> Use only after completing all three phases. These are diagnostic, not a shortcut.
+
+### 4.1 claudecertifications.com · 3h
+
+### 4.2 CertSafari — 609 questions filtered by domain · 5h
+
+
+---
+
+
+
+
+
+
+
+---
+
+## Phase 1 — Beginner · ~22h
+> Build the mental model before touching any code.
+
+### 1.1 How Claude actually works · ~4h
 
 - [ ] 1.1.1 AI Capabilities & Limitations — hallucination mechanics, attention behaviour, failure modes `[Prompt Eng.]` `[Context Mgmt]`
 - [ ] 1.1.2 AI Fluency Foundations — the 4D Framework: Delegation, Description, Discernment, Diligence `[Prompt Eng.]`
