@@ -4,7 +4,7 @@
 > **Who this is for:** Complete beginners to Claude and AI development — no prior API or agentic system experience assumed  
 > **Structure:** Beginner → Intermediate → Advanced, ordered strictly by complexity and dependency  
 > **Rule:** Complete each phase fully before moving to the next — later phases build directly on earlier ones  
-> **Note on time estimates:** Every estimate below includes reading time, exercise time, debugging time, and re-reading when something doesn't click. The 60-hour plans you'll find elsewhere only count video time. These counts are honest.
+> **Note on time estimates:** Every estimate below includes reading time, exercise time, debugging time, and re-reading when something doesn't click.
 
 ---
 
@@ -39,7 +39,7 @@ These topics appear repeatedly in accounts from candidates who have already sat 
 
 ---
 
-## Phase 1 — Beginner · Weeks 1–2 · ~22 hours
+## Phase 1 — Beginner · ~22 hours
 
 > **Goal:** Build the mental model before touching any code. Understand what Claude is, how it reasons, where and why it fails, which model to use for which task, and how to write prompts that produce consistent results. Most exam failures trace back to gaps formed here by people who rushed to the technical phases too quickly.
 
@@ -166,7 +166,7 @@ Before moving to Phase 2, answer these from memory without looking anything up. 
 
 ---
 
-## Phase 2 — Intermediate · Weeks 3–6 · ~38 hours
+## Phase 2 — Intermediate · ~38 hours
 
 > **Goal:** Build real working systems with the Claude API, MCP, and Claude Code. By the end of this phase you will have a working MCP server with three tools, a structured output pipeline with validation loops, and Claude Code running on a real codebase with hooks and CLAUDE.md configured. Every project here directly targets confirmed exam topics.
 
@@ -421,7 +421,7 @@ Answer the following from memory before starting Phase 3. If you cannot answer a
 
 ---
 
-## Phase 3 — Advanced · Weeks 7–9 · ~22 hours
+## Phase 3 — Advanced  · ~22 hours
 
 > **Goal:** Agentic systems design. Multi-agent orchestration, subagent delegation, fallback loop architecture, multi-instance review, and context stress testing. This phase cannot be rushed. The 27% agentic domain requires the API, MCP, Claude Code, and context foundations to be solid — candidates who jump here too early lose marks on questions that assume intermediate understanding.
 
@@ -579,7 +579,7 @@ Answer these before booking the exam. These require synthesis across multiple do
 
 ---
 
-**claudecertifications.com** · 12-week study plan + practice questions + anti-patterns guide · 🆓  
+**claudecertifications.com**  study plan + practice questions + anti-patterns guide · 🆓  
 `[All Domains]`
 
 Free structured study plan, domain breakdowns, anti-patterns guide, and scenario walkthroughs. Use the anti-patterns guide specifically — it lists the exact wrong approaches the exam uses as distractors. No signup required.
@@ -639,7 +639,6 @@ Join the Claude Partner Network (free for any organisation bringing Claude to ma
 | Agentic AI from Claude Code | GitHub | Agentic, Claude Code | 2h | 🆓 |
 | Dive into Claude Code | GitHub | Agentic Architecture | 1h | 🆓 |
 | claudecertifications.com | Practice Qs | All Domains | 3h | 🆓 |
-| CertSafari | Practice Qs | All Domains | 5h | Paid |
 
 ---
 
